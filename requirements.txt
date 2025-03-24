@@ -1,0 +1,11 @@
+
+fastapi
+uvicorn
+nest-asyncio
+pyngrok
+requests
+textblob
+gtts
+beautifulsoup4
+gradio
+pydantic
