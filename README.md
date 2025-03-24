@@ -90,6 +90,7 @@ To deploy on Hugging Face:
 ## Dependencies
 The project requires the following dependencies (defined in `requirements.txt`):
 ```txt
+
 fastapi==0.95.0
 uvicorn==0.23.2
 requests==2.28.1
@@ -98,6 +99,7 @@ gtts==2.3.2
 beautifulsoup4==4.11.1
 gradio==3.50.2
 pydantic==1.10.7
+
 ```
 
 ## Future Enhancements
